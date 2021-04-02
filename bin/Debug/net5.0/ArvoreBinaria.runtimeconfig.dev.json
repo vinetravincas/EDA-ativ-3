@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\luant\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\luant\\.nuget\\packages"
-    ]
-  }
-}
